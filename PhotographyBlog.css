@@ -1,0 +1,14 @@
+img{
+    width: 30%;
+    margin:1.66%
+}
+
+nav{
+    border-bottom: 1px solid rgb(187, 175, 175);
+    width: 30%;
+    margin-left: 1.66%;
+    padding: 20px 0px;
+    font-family: 'Teko', sans-serif;
+    font-size: 1.1em;
+}
+
